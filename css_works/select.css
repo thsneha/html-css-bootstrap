@@ -1,0 +1,15 @@
+h1{color:black}
+#a1{
+    color: blue;
+    text-align:center
+}
+.a2{
+    color:darkred
+}
+div{
+    background-color: rgb(119, 163, 149);
+}
+/* selector */
+/* 1.tag selector */
+/* 2.id selector-(#) */
+/* 3.class selector-(.) */

@@ -1,0 +1,12 @@
+git init.
+git status- untracked files.
+git add -A - which add the modified files to staging area.
+git commit -m "message" -which add to local repository.
+git log- which see all the changes to commit.
+git checkout master-switch to master branch.
+
+To add to remote repostitory
+git remote add name url
+git remote add lab https://github.com/thsneha/projectjan.git
+ git push -u lab master
+git remote -v---->is the command to check whether the remote is added.

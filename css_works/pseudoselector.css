@@ -1,0 +1,26 @@
+/* h1:nth-child(1){
+color: blue;
+}
+h1:nth-child(2){
+    color:blueviolet;
+}
+h1:nth-child(3)
+{
+    color:aqua;
+}
+h1:nth-child(4){
+    color:brown
+
+} */
+h1:nth-child(odd){
+    color:brown;
+}
+h1:nth-child(even){
+    color:red;
+}
+h2{
+    color: blue;
+}
+span{
+    color:black;
+}

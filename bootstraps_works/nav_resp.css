@@ -1,0 +1,77 @@
+.col-12{
+    margin-left:5px;
+    font-size: 50px;
+    
+}
+.carousel-caption{
+    margin-top:10px;
+    font-size:xx-large;
+
+}
+
+h2{padding-left:100px;}
+
+p{
+    margin-top: 10px;
+    padding-left:100px;
+    font-size:large;
+}
+button.btn{
+    margin-left:100px;
+    margin-top:20px;
+    width:100px;
+    height:50px;
+    border-radius:30px ;
+    background-color: blue;
+
+}
+button.btn:hover{
+    background-color: white;
+    color: black;
+}
+.head{
+    text-align: center;
+    margin-top: 15px;
+    color: blue;
+}
+
+.card2{
+    margin-left:60px;
+}  
+p.card-text{
+    margin-left:-100px;
+    color:black
+}
+a.a1{
+    margin-right:10px;
+    margin-bottom:5px;
+
+}
+.card3{
+    margin-left:240px;
+    margin-top:10px;
+}
+.card4{
+    margin-top:10px;
+    margin-left:220px;
+}
+.card5{
+    margin-top:10px;
+    margin-left:200px;
+}
+.row{
+    background-color: beige;
+}
+img{
+    width:500px;
+}
+.col1{
+    margin-left: 870px;
+    margin-top:-250px;
+}
+.ds{
+    width:400px;
+    margin-left:-80px;
+}
+
+

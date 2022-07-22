@@ -1,0 +1,67 @@
+front end-1.html-content loading
+          2.css-styling
+          3 bootstrap-css framework-collection of classes in css-eg.row,container
+Backend-Data processing and data storing
+        processing language-
+          python
+          java
+          c#
+         Dart
+         php
+         node
+datastoring-
+         database-mysql
+         sqlite
+         Postgres
+         Mongodb
+
+webapplication-A web application (or web app) is application software that runs on a web server.
+
+Framework-collection of classes and functions but we have to follow setof rules.
+          so its makes faster and easier.
+         eg.Django,flask,Oodo is a framework of python
+
+        Django Rest Framework can communicate to the server by browser,androidapp,ios app but Django can communicate via only browser.
+         
+
+
+
+
+library-collection of modules is package,ie predefined collection of classes and functions.
+        eg re module contains functions eg re.fullmatch.
+                                         fullmatch,finditer is a fuction
+
+
+
+print("hello")-function-------------------->These are all in builtin library
+lst=[1,2,3,4]
+lst.append---append is a method------------>These are all in builtin library--lst class contains append funciion
+
+def my_print():------function
+   print("hello")
+my_print()
+
+class myclass:
+    def my_new_print(self):-----method
+      print("method)
+np=myclass()
+np.my_new_print()
+
+main topics needed for python-Django
+ Dictionary
+*args,**kwargs
+Decorators
+Listcomprehension
+Oops
+inheritance
+Polymorphism(method overriding)
+Packages
+map()
+filter()
+
+
+
+
+
+
+ 

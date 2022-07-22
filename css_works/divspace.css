@@ -1,0 +1,21 @@
+.col{
+    width:200px;
+    height:400px;
+    border:2px black solid;
+    float:left;
+}
+.col1{background-color: aqua;
+margin-left:5px;}
+.col2{
+    background-color:brown;
+    margin-left:5px;
+}
+.col3{
+    background-color: darksalmon;
+    margin-left:5px;
+
+}
+.col4{
+    background-color: darkorchid;
+    margin-left:5px;
+}

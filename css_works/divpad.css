@@ -1,0 +1,8 @@
+div{
+    width:500px;
+    background-color: rgb(41, 190, 190);
+    padding:30px;  
+    border:3px solid black;
+    border-radius:100px;
+ } 
+ /* padding which give space from each side to content */

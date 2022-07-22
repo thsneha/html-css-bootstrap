@@ -1,0 +1,8 @@
+div p{
+    color:blue
+}
+/* descendent selector */
+div p:hover{
+    color:brown;
+}
+/* pseudoselectors */

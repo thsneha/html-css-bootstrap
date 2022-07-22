@@ -1,0 +1,116 @@
+body{
+    background-color: black;
+}
+
+
+div{
+    height:70px;
+    width:75px;;
+}  
+#a1{background-color: #9e9e9e;
+    margin-left: 400px;
+    margin-top: 100px;
+    
+}
+#a2{
+    background-color:lightseagreen ;
+    margin-left: 480px;
+    margin-top: -70px;
+    margin-bottom: 0px;
+}
+#a3{
+    background-color:cyan;
+    margin-left: 560px;
+    margin-top:-70px
+}
+#a4{
+    background-color:rgb(153, 142, 163);
+    margin-left:640px;
+    margin-top:-70px;
+                   nnnnnnnnnnnnnnnnbhgt   }
+#a5{
+    background-color: rgb(25, 94, 155);
+    margin-left:720px ;
+    margin-top:-70px
+}
+#a6{background-color:darkorange;
+    margin-left:400px;
+    margin-top:4px;
+    margin-bottom:0px;
+}
+#a7{
+    background-color: blue;
+    margin-left: 480px;
+    margin-top: -70px;
+}
+#a8{
+    background-color: #9e9e9e;
+    margin-left: 560px;
+    margin-top: -70px;
+}
+#a9{
+    background-color: rgb(47, 70, 112);
+    margin-left: 640px;
+    margin-top: -70px;
+}
+#a10{
+    background-color: darkred;
+    margin-left: 720px;
+    margin-top: -70px;
+}
+#a11{background-color: indianred;
+margin-left: 320px;
+margin-top: -70px;
+}
+#a12{background-color: orchid;
+    margin-left: 800px;
+    margin-top: -70px;
+}
+#c1{
+    background-color: brown;
+    margin-left: 320px;
+    margin-top: 6px;
+}
+#c2{background-color: aquamarine;
+    margin-left: 400px;
+    margin-bottom: 50px;
+    margin-top: -70px;}
+#c3{
+    background-color: mediumseagreen;
+    margin-left: 480px;
+    margin-top: -120px;
+    margin-bottom: 0px;
+}
+#c4{
+    background-color: greenyellow;
+    margin-left: 560px;
+    margin-top: -70px;
+}
+#c5{
+    background-color: hotpink;
+    margin-left: 640px;
+    margin-top: -70px;
+}
+#c6{background-color: tomato;
+    margin-left: 720px;
+    margin-top: -70px;
+}
+#c7{
+    background-color: mediumvioletred;
+    margin-left: 800px;
+    margin-top: -70px;
+}
+#c8{
+    background-color: deepskyblue;
+    margin-left:240px;
+    margin-top:-70px
+}
+#c9 {
+        background-color: plum;
+        margin-left: 880px;
+        margin-top: -70px;
+    }
+    
+    
+
+    

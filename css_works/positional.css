@@ -1,0 +1,17 @@
+div{
+    height:200px;
+    width:100px;
+}
+.col-1{
+    background-color: brown;
+    position:absolute;
+    top:200px;
+    left:150px;
+    /* if it doesnot specify the position then it is static.if the position
+     is absolute then it is not considered as block.
+     it is calculated from the page top,bottom,left etc*/
+}
+.col-2{
+    background-color: black;
+    position:absolute;
+}

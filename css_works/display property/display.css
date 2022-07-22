@@ -1,0 +1,35 @@
+.row{
+    /* width always represent in % because the display changes as window size changes */
+    width:100%;
+    height:300px;
+    /* if the parent is not vissible we don't add any color to bakground */
+    /* background-color:aqua; */
+    background-image:url(./photo-1471879832106-c7ab9e0cee23.jpg) ;
+    background-size: 100%;
+    display:flex;
+    /* justify-content:space-between
+    justify-content:space-evenly
+    justify-content:end
+    justify-content:start */
+
+    justify-content:space-around;
+    align-items: center;
+
+}
+.col{
+    width:22%;
+    height:200px;
+    border:2px solid red;
+}
+.col1{
+    background-color: blue;
+}
+.col2{
+    background-color: blueviolet;
+}
+.col3{
+    background-color: brown;
+}
+.col4{
+    background-color: coral;
+}

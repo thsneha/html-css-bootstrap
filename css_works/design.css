@@ -1,0 +1,13 @@
+div{background-color: rgb(211, 203, 219);
+     height:200px;
+     width:250px;
+     color:darkred;
+     border:2px solid purple;
+    }
+   #a1{background-color: aquamarine;
+      margin-top:30px ;
+      margin-left: 400px;
+    margin-top: -200px;
+
+} 
+   #b1{margin-left: 100px;}
